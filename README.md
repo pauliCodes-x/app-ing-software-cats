@@ -1,7 +1,3 @@
-# app-ing-software-cats
-
-Descripcion
-
 # Cat Randomizer App
 
 Una mini aplicación web que muestra **imágenes y datos curiosos sobre gatos** utilizando dos APIs públicas:
@@ -38,14 +34,14 @@ Luego abrir en el navegador:
 
 # Detalles técnicos
 
-## Frontend: HTML5, CSS3, JavaScript.
+- Frontend: HTML5, CSS3, JavaScript.
 
-## Servidor web: Nginx (imagen base nginx:alpine).
+- Servidor web: Nginx (imagen base nginx:alpine).
 
-## APIs externas:
+- APIs externas:
 
-- https://catfact.ninja/fact
+      - https://catfact.ninja/fact
 
-- https://api.thecatapi.com/v1/images/search
+      - https://api.thecatapi.com/v1/images/search
 
 ---
